@@ -82,7 +82,7 @@ The application will work the following way inside for this concept:
 <img src="https://github.com/HVbajoria/Medicancy/blob/main/Methodology/Treatment%20and%20report%20procedure.png" width="650" alt="accessibility text" >
   </p>
 
-## Demo Video Link : 
+## Demo Video Link : https://youtu.be/ob1wLU0RYHk
 
 ## Social Impact / Novelty :
 This application will revolutionize the way our healthcare industry is functioning. It will bring in a new wave of trust , transparency and security for both the patients and the doctors which will help in proper functioning of the industry and get the patient to heal faster. 
