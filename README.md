@@ -29,7 +29,7 @@ The whole treatment process in India after the patient is admitted into the hosp
 * The authority will now be distributed between the patient's family doctor and the hospital doctors equally before any treatment is initiated along with any test or medications that are prescribed.
 * The complete transparency will lead to correct and necessary treatment only which will save them from exploitation and corruption thus reducing the heavy charges incurred on them.
 * The bills test will get validated before final uploading on the application which will help the patient pay only the correct amount and detect anomalies to take further actions.
-* The patient's family gets a powerful portal where all the reports are. bills and tests are displayed in a user-friendly manner which will help them understand the treatment procedure, get consultants and take action if required.
+* The patient's family gets a powerful portal where all the reports, bills and tests are displayed in a user-friendly manner which will help them understand the treatment procedure, get consultants and take action if required.
 * The authority will also be distributed to the patient and the family doctors ( without their acceptance no test or treatment can be initiated till there is an emergency). This will help the patient get the best treatment and reduce the scope of greedy doctors and clinics. 
 
 
