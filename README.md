@@ -9,6 +9,10 @@
 
 **Country of Residence** : India</br>
 
+**College Name** : Amity University Kolkata
+
+**Graduation Year** : 2024
+
 **Experience Level** : Student</br>
 
 ## Theme : 
